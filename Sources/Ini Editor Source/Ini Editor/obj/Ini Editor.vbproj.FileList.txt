@@ -1,0 +1,28 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RA.Form1.resources
+obj\Debug\RA.Resources.resources
+bin\Debug\Ini Editor.exe
+bin\Debug\Ini Editor.pdb
+bin\Debug\Ini Editor.xml
+obj\Debug\Ini Editor.vbproj.GenerateResource.Cache
+obj\Debug\Ini Editor.exe
+obj\Debug\Ini Editor.xml
+obj\Debug\Ini Editor.pdb
+bin\Release\Ini Editor.exe.manifest
+bin\Release\Ini Editor.application
+bin\Release\Ini Editor.exe
+bin\Release\Ini Editor.pdb
+bin\Release\Ini Editor.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\RA.Form1.resources
+obj\Release\RA.Resources.resources
+obj\Release\Ini Editor.vbproj.GenerateResource.Cache
+obj\Release\Ini Editor.exe.manifest
+obj\Release\Ini Editor.application
+obj\Release\Ini Editor.exe
+obj\Release\Ini Editor.xml
+obj\Release\Ini Editor.pdb
+bin\Debug\Ini Editor.exe.manifest
+bin\Debug\Ini Editor.application
+obj\Debug\Ini Editor.exe.manifest
+obj\Debug\Ini Editor.application

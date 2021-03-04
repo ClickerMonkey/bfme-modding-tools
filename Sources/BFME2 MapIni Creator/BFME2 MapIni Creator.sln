@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BFME2 MapIni Creator", "BFME2 MapIni Creator.vbproj", "{AFD038B0-0B6A-4901-B824-68DA1EE961D0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{AFD038B0-0B6A-4901-B824-68DA1EE961D0}.Debug.ActiveCfg = Debug|.NET
+		{AFD038B0-0B6A-4901-B824-68DA1EE961D0}.Debug.Build.0 = Debug|.NET
+		{AFD038B0-0B6A-4901-B824-68DA1EE961D0}.Release.ActiveCfg = Release|.NET
+		{AFD038B0-0B6A-4901-B824-68DA1EE961D0}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

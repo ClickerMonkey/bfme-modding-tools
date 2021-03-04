@@ -1,0 +1,10 @@
+obj\Debug\INIConverter.exe
+obj\Debug\INIConverter.xml
+obj\Debug\INIConverter.pdb
+bin\Debug\INIConverter.exe
+bin\Debug\INIConverter.pdb
+bin\Debug\INIConverter.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\INIConverter.Form1.resources
+obj\Debug\INIConverter.Resources.resources
+obj\Debug\INIConverter.vbproj.GenerateResource.Cache

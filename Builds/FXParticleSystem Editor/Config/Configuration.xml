@@ -1,0 +1,20 @@
+﻿<ParticleSystemEditor>
+  <Form>
+    <Width>1288</Width>
+    <Height>778</Height>
+    <X>-4</X>
+    <Y>-4</Y>
+  </Form>
+  <Scene>
+    <BackColor R="128" G="128" B="128" />
+    <Floor>GrassBig</Floor>
+    <Camera X="-179.4734" Y="100.0793" Z="-81.77743" Theta="127.2" Omega="-99.30029" />
+    <Font FontName="Keltic" />
+  </Scene>
+  <Output>
+    <Particles FromDirectory="D:\Projects\T3A\FXParticleSystem Editor\Particles\" />
+    <Floors FromDirectory="D:\Projects\T3A\FXParticleSystem Editor\Floors\" />
+    <Fonts FromDirectory="D:\Projects\T3A\FXParticleSystem Editor\Fonts\" />
+    <Config FromDirectory="D:\Projects\T3A\FXParticleSystem Editor\Config\" />
+  </Output>
+</ParticleSystemEditor>

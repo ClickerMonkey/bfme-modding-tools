@@ -1,0 +1,32 @@
+This Program was made By Phil Diffenderfer For Modding BFME 
+
+Introduction:
+	This File will direct you to what commands do what.
+
+Main Page:
+	Current Faction To Edit:
+		-This is to set what faction you would like to edit, 
+			while editting a faction its values are automatically updated
+	Add New Faction:
+		-This will prompt for a new factions name. Once entered you can select the faction to edit.
+	Include this Faction to be Created:
+		-If This is checked this faction will be included to be created or included to be saved
+	Include this Faction in the CivilianBuildings.ini:
+		-If This is not checked for this faction it will not be playable ingame 
+			if you decide to use this civilianbuildings.ini
+	Ini's To create
+		-Check the inis you would like to Create When you hit the Create button. 
+			If one is not checked this wont be produced when you choose to create
+	Open Faction from text File:
+		-This opens up a fcf File (Faction Creator File). 
+			Once a file is loaded the factions are uploaded and are free to edit.
+	Save Faction to text File:
+		-This saves the factions you have to a fcf File, 
+			But only the Factions you have checked to "Include Faction to be created".
+	Create Finished Factions:
+		-This will create all ini's chosen and all Factions that you chose to include.
+Edit Faction:
+	Current Faction:
+		-This is the current faction you are editting
+	
+	All Help Options are included beside the Objects. Their marked "?"

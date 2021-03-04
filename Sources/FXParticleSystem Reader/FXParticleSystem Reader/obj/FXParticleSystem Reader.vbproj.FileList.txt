@@ -1,0 +1,3 @@
+obj\Debug\FXParticleSystem Reader.exe
+obj\Debug\FXParticleSystem Reader.xml
+obj\Debug\FXParticleSystem Reader.pdb

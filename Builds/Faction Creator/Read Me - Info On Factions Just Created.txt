@@ -1,0 +1,63 @@
+;This Was created by Phils ({IP}Gil-Galad) Faction Creator
+;Factions Created:1/7/2006
+
+;Feuricians Info:
+Camp Name = 	Camp_Feuricians
+CampNW Name = 	Camp_FeuriciansNW
+CampNE Name = 	Camp_FeuriciansNE
+CampSW Name = 	Camp_FeuriciansSW
+CampSE Name = 	Camp_FeuriciansSE
+CastleNW Name = 	Castle_FeuriciansNW
+CastleNE Name = 	Castle_FeuriciansNE
+CastleSW Name = 	Castle_FeuriciansSW
+CastleSE Name = 	Castle_FeuriciansSE
+Expansion Name = 	Expansion_Feuricians
+Farm Name = 	Farm_Feuricians
+Single Name = 	Single_Feuricians
+
+
+;Helvirites Info:
+Camp Name = 	Camp_Helvirites
+CampNW Name = 	Camp_HelviritesNW
+CampNE Name = 	Camp_HelviritesNE
+CampSW Name = 	Camp_HelviritesSW
+CampSE Name = 	Camp_HelviritesSE
+CastleNW Name = 	Castle_HelviritesNW
+CastleNE Name = 	Castle_HelviritesNE
+CastleSW Name = 	Castle_HelviritesSW
+CastleSE Name = 	Castle_HelviritesSE
+Expansion Name = 	Expansion_Helvirites
+Farm Name = 	Farm_Helvirites
+Single Name = 	Single_Helvirites
+
+
+;Angels Info:
+Camp Name = 	Camp_Angels
+CampNW Name = 	Camp_AngelsNW
+CampNE Name = 	Camp_AngelsNE
+CampSW Name = 	Camp_AngelsSW
+CampSE Name = 	Camp_AngelsSE
+CastleNW Name = 	Castle_AngelsNW
+CastleNE Name = 	Castle_AngelsNE
+CastleSW Name = 	Castle_AngelsSW
+CastleSE Name = 	Castle_AngelsSE
+Expansion Name = 	Expansion_Angels
+Farm Name = 	Farm_Angels
+Single Name = 	Single_Angels
+
+
+;Demons Info:
+Camp Name = 	Camp_Demons
+CampNW Name = 	Camp_DemonsNW
+CampNE Name = 	Camp_DemonsNE
+CampSW Name = 	Camp_DemonsSW
+CampSE Name = 	Camp_DemonsSE
+CastleNW Name = 	Castle_DemonsNW
+CastleNE Name = 	Castle_DemonsNE
+CastleSW Name = 	Castle_DemonsSW
+CastleSE Name = 	Castle_DemonsSE
+Expansion Name = 	Expansion_Demons
+Farm Name = 	Farm_Demons
+Single Name = 	Single_Demons
+
+

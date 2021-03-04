@@ -1,0 +1,84 @@
+INI:FactionFeuricians
+ "Feuricians"
+END
+
+SIDE:Feuricians
+ "Feuricians"
+END
+
+LWA:Feuricians
+ "Feuricians"
+END
+
+LWA:FeuriciansArmy
+ "Feuricians Army"
+END
+
+UPGRADE:FeuriciansFaction
+ "Feuricians"
+END
+
+
+INI:FactionHelvirites
+ "Helvirites"
+END
+
+SIDE:Helvirites
+ "Helvirites"
+END
+
+LWA:Helvirites
+ "Helvirites"
+END
+
+LWA:HelviritesArmy
+ "Helvirites Army"
+END
+
+UPGRADE:HelviritesFaction
+ "Helvirites"
+END
+
+
+INI:FactionAngels
+ "Angels"
+END
+
+SIDE:Angels
+ "Angels"
+END
+
+LWA:Angels
+ "Angels"
+END
+
+LWA:AngelsArmy
+ "Angels Army"
+END
+
+UPGRADE:AngelsFaction
+ "Angels"
+END
+
+
+INI:FactionDemons
+ "Demons"
+END
+
+SIDE:Demons
+ "Demons"
+END
+
+LWA:Demons
+ "Demons"
+END
+
+LWA:DemonsArmy
+ "Demons Army"
+END
+
+UPGRADE:DemonsFaction
+ "Demons"
+END
+
+

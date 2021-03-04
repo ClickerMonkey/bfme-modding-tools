@@ -1,0 +1,20 @@
+obj\Debug\Experience Level Creator.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Experience_Level_Creator.Form1.resources
+obj\Release\Experience_Level_Creator.Properties.Resources.resources
+obj\Release\Experience_Level_Creator.SearchFile.resources
+obj\Release\Experience_Level_Creator.Selector.resources
+obj\Release\Experience Level Creator.csproj.GenerateResource.Cache
+obj\Release\Experience Level Creator.exe
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Experience_Level_Creator.Form1.resources
+obj\Debug\Experience_Level_Creator.Properties.Resources.resources
+obj\Debug\Experience_Level_Creator.SearchFile.resources
+obj\Debug\Experience_Level_Creator.Selector.resources
+obj\Debug\Experience Level Creator.csproj.GenerateResource.Cache
+bin\Debug\Experience Level Creator.exe
+bin\Debug\Experience Level Creator.pdb
+obj\Debug\Experience Level Creator.pdb
+bin\Release\Experience Level Creator.exe
+bin\Release\Experience Level Creator.pdb
+obj\Release\Experience Level Creator.pdb
