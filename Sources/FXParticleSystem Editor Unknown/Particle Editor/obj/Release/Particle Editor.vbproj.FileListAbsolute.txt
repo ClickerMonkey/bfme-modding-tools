@@ -1,0 +1,20 @@
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Release\Particle Editor.exe
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Release\Particle Editor.pdb
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Release\Particle Editor.xml
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Release\Microsoft.DirectX.Direct3D.dll
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Release\Microsoft.DirectX.Direct3DX.dll
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Release\Microsoft.DirectX.DirectSound.dll
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Release\Microsoft.DirectX.dll
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Release\Microsoft.DirectX.xml
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Release\Microsoft.DirectX.Direct3D.xml
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Release\Microsoft.DirectX.Direct3DX.xml
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Release\Microsoft.DirectX.DirectSound.xml
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Release\Particle Editor.vbprojAssemblyReference.cache
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Release\Particle_Editor.Form1.resources
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Release\Particle_Editor.Resources.resources
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Release\Particle Editor.vbproj.GenerateResource.cache
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Release\Particle Editor.vbproj.CoreCompileInputs.cache
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Release\Particle Editor.vbproj.CopyComplete
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Release\Particle Editor.exe
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Release\Particle Editor.xml
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Release\Particle Editor.pdb

@@ -1,0 +1,10 @@
+﻿<!--ParticleSystem in XML Format-->
+<FXParticleSystem Name="NewParticleSystem">
+  <System Priority="2" Shader="1" ParticleName="Explosion" SystemLifetime="-12.1015758514404" SortLevel="0" InitialDelayMin="0" InitialDelayMax="0" LifetimeMin="30.0000019073486" LifetimeMax="40" SizeMin="20" SizeMax="20" BurstCountMin="10" BurstCountMax="10" BurstDelayMin="1" BurstDelayMax="1" IsOneShot="0" IsGroundAligned="0" />
+  <Colors Color1R="255" Color1G="0" Color1B="0" Color1Time="0" Color2R="255" Color2G="128" Color2B="0" Color2Time="20" Color3R="0" Color3G="0" Color3B="0" Color3Time="30.0000019073486" Color4R="0" Color4G="0" Color4B="0" Color4Time="0" Color5R="0" Color5G="0" Color5B="0" Color5Time="0" Color6R="0" Color6G="0" Color6B="0" Color6Time="0" Color7R="0" Color7G="0" Color7B="0" Color7Time="0" Color8R="0" Color8G="0" Color8B="0" Color8Time="0" />
+  <Alphas Alpha1Min="1" Alpha1Max="1" Alpha1Time="0" Alpha2Min="0.00199999986216426" Alpha2Max="0.00192156864795834" Alpha2Time="35" Alpha3Min="0" Alpha3Max="0" Alpha3Time="40" Alpha4Min="0" Alpha4Max="0" Alpha4Time="0" Alpha5Min="0" Alpha5Max="0" Alpha5Time="0" Alpha6Min="0" Alpha6Max="0" Alpha6Time="0" Alpha7Min="0" Alpha7Max="0" Alpha7Time="0" Alpha8Min="0" Alpha8Max="0" Alpha8Time="0" />
+  <Update SizeRateMin="-0.5" SizeRateMax="0.5" SizeRateDampingMin="1" SizeRateDampingMax="1" AngleZMin="0" AngleZMax="0" AngularRateZMin="1" AngularRateZMax="0" AngularDampingMin="1" AngularDampingMax="1.10000002384186" />
+  <Physics VelocityDampingMin="1.01999998092651" VelocityDampingMax="1.00999999046326" GravityMin="0" GravityMax="0" DriftVelocityX="0" DriftVelocityY="0" DriftVelocityZ="0" />
+  <EmissionVelocity Type="1" RadialMin="3" RadialMax="3" NormalMin="0" NormalMax="0" XMin="-0.200000002980232" XMax="0.200000002980232" YMin="-0.200000002980232" YMax="0.200000002980232" ZMin="2" ZMax="0" SpeedMin="1" SpeedMax="1" />
+  <EmissionVolume Type="0" IsHollow="-1" HalfSizeX="0" HalfSizeY="0" HalfSizeZ="0" OffsetX="0" OffsetY="0" OffsetZ="0" Radius="10" Length="0" StartPointX="0" StartPointY="0" StartPointZ="0" EndPointX="0" EndPointY="10" EndPointZ="0" />
+</FXParticleSystem>

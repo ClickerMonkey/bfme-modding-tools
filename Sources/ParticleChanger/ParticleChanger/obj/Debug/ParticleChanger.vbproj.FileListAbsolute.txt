@@ -1,0 +1,11 @@
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\ParticleChanger\ParticleChanger\bin\Debug\ParticleChanger.exe
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\ParticleChanger\ParticleChanger\bin\Debug\ParticleChanger.pdb
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\ParticleChanger\ParticleChanger\bin\Debug\ParticleChanger.xml
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\ParticleChanger\ParticleChanger\obj\Debug\ParticleChanger.vbprojAssemblyReference.cache
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\ParticleChanger\ParticleChanger\obj\Debug\ParticleChanger.frmChanger.resources
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\ParticleChanger\ParticleChanger\obj\Debug\ParticleChanger.Resources.resources
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\ParticleChanger\ParticleChanger\obj\Debug\ParticleChanger.vbproj.GenerateResource.cache
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\ParticleChanger\ParticleChanger\obj\Debug\ParticleChanger.vbproj.CoreCompileInputs.cache
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\ParticleChanger\ParticleChanger\obj\Debug\ParticleChanger.exe
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\ParticleChanger\ParticleChanger\obj\Debug\ParticleChanger.xml
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\ParticleChanger\ParticleChanger\obj\Debug\ParticleChanger.pdb

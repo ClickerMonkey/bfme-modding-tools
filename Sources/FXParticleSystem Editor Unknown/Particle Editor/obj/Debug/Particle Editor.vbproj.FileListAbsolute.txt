@@ -1,0 +1,20 @@
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Debug\Particle Editor.vbprojAssemblyReference.cache
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Debug\Particle_Editor.Form1.resources
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Debug\Particle_Editor.Resources.resources
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Debug\Particle Editor.vbproj.GenerateResource.cache
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Debug\Particle Editor.vbproj.CoreCompileInputs.cache
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Debug\Particle Editor.exe
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Debug\Particle Editor.xml
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Debug\Particle Editor.pdb
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Debug\Particle Editor.exe
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Debug\Particle Editor.pdb
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Debug\Particle Editor.xml
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Debug\Microsoft.DirectX.Direct3D.dll
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Debug\Microsoft.DirectX.DirectSound.dll
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Debug\Microsoft.DirectX.dll
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Debug\Microsoft.DirectX.xml
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Debug\Microsoft.DirectX.Direct3D.xml
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\bin\Debug\Microsoft.DirectX.DirectSound.xml
+E:\Backups\Relocation\Shared\Projects\Omega\Particle Editor\Particle Editor\obj\Debug\Particle Editor.vbproj.CopyComplete

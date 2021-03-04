@@ -1,0 +1,20 @@
+﻿<ParticleSystemEditor>
+  <Form>
+    <Width>891</Width>
+    <Height>535</Height>
+    <X>96</X>
+    <Y>78</Y>
+  </Form>
+  <Scene>
+    <BackColor R="128" G="128" B="128" />
+    <Floor>GrassBig</Floor>
+    <Camera X="-14.67474" Y="-347.6318" Z="-141.1775" Theta="0.8000602" Omega="-103.7001" />
+    <Font FontName="Keltic" />
+  </Scene>
+  <Output>
+    <Particles FromDirectory="D:\Projects\Other\Programs\FXParticle Effects Viewer\Particle Effects Viewer\bin\Debug\FXParticleSystem Editor\Particles\" />
+    <Floors FromDirectory="D:\Projects\Other\Programs\FXParticle Effects Viewer\Particle Effects Viewer\bin\Debug\FXParticleSystem Editor\Floors\" />
+    <Fonts FromDirectory="D:\Projects\Other\Programs\FXParticle Effects Viewer\Particle Effects Viewer\bin\Debug\FXParticleSystem Editor\Fonts\" />
+    <Config FromDirectory="D:\Projects\Other\Programs\FXParticle Effects Viewer\Particle Effects Viewer\bin\Debug\FXParticleSystem Editor\Config\" />
+  </Output>
+</ParticleSystemEditor>

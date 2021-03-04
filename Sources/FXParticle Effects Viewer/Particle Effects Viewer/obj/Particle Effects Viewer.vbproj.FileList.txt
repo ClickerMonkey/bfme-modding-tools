@@ -1,0 +1,30 @@
+obj\Release\Particle Effects Viewer.exe
+obj\Release\Particle Effects Viewer.xml
+obj\Release\Particle Effects Viewer.pdb
+bin\Release\Particle Effects Viewer.exe
+bin\Release\Particle Effects Viewer.pdb
+bin\Release\Particle Effects Viewer.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Particle_Effects_Viewer.ColorHolder.resources
+obj\Release\Particle_Effects_Viewer.Resources.resources
+obj\Release\Particle_Effects_Viewer.ValueHolder.resources
+obj\Release\Particle Effects Viewer.vbproj.GenerateResource.Cache
+obj\Release\Particle_Effects_Viewer.AlphaDialog.resources
+obj\Release\Particle_Effects_Viewer.AlphaHolder.resources
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Particle_Effects_Viewer.AlphaDialog.resources
+obj\Debug\Particle_Effects_Viewer.AlphaHolder.resources
+obj\Debug\Particle_Effects_Viewer.ColorHolder.resources
+obj\Debug\Particle_Effects_Viewer.Resources.resources
+obj\Debug\Particle_Effects_Viewer.ValueHolder.resources
+obj\Debug\Particle Effects Viewer.vbproj.GenerateResource.Cache
+obj\Debug\Particle_Effects_Viewer.MainForm.resources
+obj\Release\Particle_Effects_Viewer.MainForm.resources
+obj\Release\Particle_Effects_Viewer.VectorHolder.resources
+obj\Debug\Particle_Effects_Viewer.VectorHolder.resources
+bin\Debug\FXParticleSystem Editor.exe
+bin\Debug\FXParticleSystem Editor.pdb
+bin\Debug\FXParticleSystem Editor.xml
+obj\Debug\FXParticleSystem Editor.exe
+obj\Debug\FXParticleSystem Editor.xml
+obj\Debug\FXParticleSystem Editor.pdb

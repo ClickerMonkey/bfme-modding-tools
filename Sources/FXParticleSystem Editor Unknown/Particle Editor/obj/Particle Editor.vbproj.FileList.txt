@@ -1,0 +1,20 @@
+obj\Debug\Particle Editor.exe
+obj\Debug\Particle Editor.xml
+obj\Debug\Particle Editor.pdb
+bin\Debug\Particle Editor.exe
+bin\Debug\Particle Editor.pdb
+bin\Debug\Particle Editor.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Particle_Editor.Form1.resources
+obj\Debug\Particle_Editor.Resources.resources
+obj\Debug\Particle Editor.vbproj.GenerateResource.Cache
+bin\Release\Particle Editor.exe
+bin\Release\Particle Editor.pdb
+bin\Release\Particle Editor.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Particle_Editor.Form1.resources
+obj\Release\Particle_Editor.Resources.resources
+obj\Release\Particle Editor.vbproj.GenerateResource.Cache
+obj\Release\Particle Editor.exe
+obj\Release\Particle Editor.xml
+obj\Release\Particle Editor.pdb

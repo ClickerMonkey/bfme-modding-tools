@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FXParticleSystem Editor
+</name>
+</assembly>
+<members>
+<member name="T:Particle_Effects_Viewer.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Particle_Effects_Viewer.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Particle_Effects_Viewer.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Particle_Effects_Viewer.TextureManager.#ctor">
+ <summary> Calls on new class to handle the game textures </summary>
+</member>
+<member name="M:Particle_Effects_Viewer.TextureManager.Initialize">
+ <summary> Initializes the public class for handling game textures </summary>
+</member>
+<member name="M:Particle_Effects_Viewer.TextureManager.Add(System.String,System.String,System.Drawing.Color,System.Double,System.Double)">
+ <summary> Adds a texture to the List of game textures </summary>
+ <param name="FilePath"> Complete filepath as string of texture (including extension) </param>
+ <param name="ReferenceName"> The name to use when getting a texture </param>
+ <param name="TransparentColor"> The transparent color </param>
+ <remarks></remarks>
+</member>
+<member name="M:Particle_Effects_Viewer.TextureManager.Dispose">
+ <summary> Used when closing application, Disposes all the textures </summary>
+</member>
+<member name="M:Particle_Effects_Viewer.TextureManager.Texture(System.String)">
+ <summary> Returns the texture that is stored under the specific name </summary>
+ <param name="Name"> Reference name that AddTexture called </param>
+</member>
+<member name="M:Particle_Effects_Viewer.TextureManager.Last">
+ <summary>
+ Returns last uploaded texture
+ </summary>
+</member>
+<member name="M:Particle_Effects_Viewer.Timer.Reset">
+ <summary> Resets the timer to 0 </summary>
+</member>
+<member name="M:Particle_Effects_Viewer.Timer.Start">
+ <summary> Starts timer, call after Device initialization or when ready to start game </summary>
+</member>
+<member name="M:Particle_Effects_Viewer.Timer.Stop">
+ <summary> Stops timer, call when application is closing </summary>
+</member>
+<member name="P:Particle_Effects_Viewer.Timer.ElapsedTime">
+ <summary> Gets the Deltatime (Time elapsed since last call or render) </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,195 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Impact;}{\f1\fswiss\fcharset0 Arial;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\fnil\fprq1\fcharset0 Courier New;}}
+{\*\generator Msftedit 5.41.15.1507;}\viewkind4\uc1\pard\ul\f0\fs44 BFME Particle System Viewer v1\ulnone\b\fs36\par
+\b0\fs28 Author: Philip Diffenderfer, aka \{IP\}Gil-Galad\par
+Contact: freaklotr4@yahoo.com\par
+\par
+\i What's this?\i0\par
+\f1\fs18 This program was developed by me to aid modders in creating and editting EA's \ul\i The Battle for Middle Earth's 1 and 2\ulnone\i0  special effects\par
+This version only supports the 'FXParticleSystem' type and not the 'ParticleSystem' type as of this version\par
+\fs20\par
+\i\f0\fs28 Im having problems Running IT!!!\par
+\i0\f1\fs18 If you are having problems just starting this up it could be up to 3 things\par
+-\b\i Framework\par
+\b0\i0\tab -The required framework for windows is '.Net Framework v2.0' or better\par
+\tab -To download the newest Framework heres a link\par
+\tab\tab @ http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5&displaylang=en\par
+-\b\i Managed Directx\par
+\tab\b0\i0 -The required Directx version is 9.0c, however you need Managed Directx to run it.\par
+\tab -To Download Managed Directx heres a link\par
+\tab\tab @ http://www.microsoft.com/downloads/details.aspx?FamilyID=c72d9f1e-53f3-4747-8490-6801d8e8b4ef&DisplayLang=en\par
+\b\i -Graphics Card\par
+\tab\b0\i0 -You have to have a decent graphics card to run at a good FPS\par
+\par
+\i\f0\fs28 I get Errors while running the program!!!\par
+\i0\f1\fs18 If you get errors while running it all errors are deposited into "Errors.xml" in the 'Config' Folder at the executables location (you can view the error in notepad)\par
+If you cant solve the problem yourself please feel free to email me and remember to send along the xml file.\par
+\par
+\i\f0\fs28 To Do's:\par
+\i0\f1\fs18 -\b\i Particle Color\par
+\tab\b0\i0 -In this version the Coloring of the particle is off, it is being worked on, I promise\par
+\b\i -Particle Alpha\par
+\tab\i0 -\b0 In this version the Alpha (transparency) of the particle is also off, it is also being worked on.\par
+\b\i -Particle System Rotation\b0\i0\par
+\tab -When you rotate the bone in the center of the Particle System the System will adapt to the rotations and display it at its proper angles\par
+\tab -Its used for when your attaching a Particle System to a bone, bones have a rotation and change the positions and direction of a particle\par
+\b\i -Editting & Viewing Multiple Particle Systems\b0\i0\par
+\tab -Ill be adding the functionalites of this in the next version\par
+\b\i -Wind\b0\i0\par
+\tab -Setup wind system\par
+\b\i -Fix all "Not Supported in this Verson"\b0\i0\par
+\tab -Where it says that below, it should be out on the next version\f0\fs28\par
+\i  Other:\i0\f1\fs18\par
+\b\i -All Errors are Written in "Config\\Errors.xml"\par
+-The Beginning Particle system is "Config\\ParticleSystem.xml"\par
+-Settings to change font, color, and floor is in "Config\\Configuration.xml"\b0\i0\par
+\ul\f0\fs44 How to Use:\par
+\ulnone\fs28 How to manipulate it so you get what you want!!!\par
+Author: Me!\par
+\par
+\i System:\par
+\ul\b\f2\fs18 Definition \ulnone\b0\i0 = Information thats set and affect the system as a whole, all values here apply to all particles in system\i\f0\fs28\par
+\b\f2\fs18 Priority\f3\fs20  \b0\i0 =(\f2\fs18 ALWAYS_RENDER, CRITICAL, AREA_EFFECT, WEAPON_TRAIL, CONSTANT, SEMI_CONSTANT, \par
+\tab   DEATH_EXPLOSION, UNIT_DAMAGE_FX, DEBRIS_TRAIL, BUILDUP, DUST_TRAIL, SCORCH_MARK, WEAPON_EXPLOSION)\par
+\tab -This is the priority for rendering the particle system in bfme, the most critical 'ALWAYS_RENDER' will however \par
+\tab   make it be rendered always\par
+\b\i Shader \b0\i0 = (ALPHA, ADDITIVE)\par
+\tab -This is to tell the System how to display the particles, play with it to get different effects.\par
+\b\i SystemLifetime \b0\i0 = (Value)\par
+\tab -This is the life of the Particle System in milliseconds, it only dies out at this time if 'IsOneShot' is set to 'Yes'\par
+\b\i ParticleName \b0\i0 = (TextureName.tga)\par
+\tab -This is the name of the texture located in Textures.Big\par
+\b\i IsOneShot \b0\i0 = (Yes or No)\par
+\tab -If Yes, this System will die in 'SystemLifetime' amount of milliseconds, however if you wish it to render the whole \par
+\tab   time you dont need to put this at all\par
+\b\i IsGroundAligned \b0\i0 = (Yes or No)\par
+\tab -If Yes, the particles will align with the ground so their horizontal, however if you wish it not to be ground aligned, \par
+\tab   and always face the camera then you dont need to put this at all\f1\par
+\b\i SortLevel \b0\i0 = (0 or 1)\par
+\tab -This is by default 0, but can be set to 1. This function is unknown.\par
+\b\i LifeTime \b0\i0 = (Value Value)\par
+\tab -This is the lifetime of the Particle in milliseconds, random between both values\par
+\b\i Size \b0\i0 = (Value Value)\par
+\tab -This is the Size of the Particle, random between both values\par
+\b\i InitialDelay \b0\i0 =  (Value Value)\par
+\tab -This is the Delay of rendering for the Particle System, set in milliseconds, random between both values\par
+\b\i BurstDelay \b0\i0 = (Value Value)\par
+\i\fs20\tab\i0\fs18 -This is the delay inbetween the particles creation, set in milliseconds, random between both values\par
+\b\i BurstCount \b0\i0 = (Value Value)\par
+\tab -This is the amount of particles to be created at each 'Burst' which happens every 'BurstDelay', set in whole numbers, \par
+\tab   random between both values\par
+\b\i StartSizerate \b0\i0 = (Value Value)\par
+\tab -\ul\f2 Not supported in this version\ulnone\f1 , function Unknown\par
+\i\f0\fs28 Color:\par
+\ul\b\f2\fs18 Definition \ulnone\b0\i0 = Color of a particle\i\f0\fs28\par
+\b\f2\fs18 Color\b0\i0 # = (R:Value G:Value B:Value Value)\par
+\tab -This is the color of the particle at the certain time\par
+\tab -As the particle progresses in life, it sets the color to R,G,B and then sets the destination color to the color after the \par
+\tab   current one\par
+\tab -Values range from (0-255), Time (last value) is in milliseconds\par
+\b\i ColorScale \b0\i0 = (Value Value)\par
+\tab -\ul Not supported in this version\ulnone , function Unknown\par
+\i\f0\fs28 Alpha:\par
+\ul\b\f2\fs18 Definition \ulnone\b0\i0 = Transpareny of the Particle\i\f0\fs28\par
+\b\f2\fs18 Alpha\b0\i0 # = (Value Value Value)\par
+\tab -This is the alpha (transparency) of the particle at the certain time\par
+\tab -As the particle progresses in life, it sets the alpha to a random value between the first 2 Values, and then sets the \par
+\tab   destination alpha to the alpha after the current one\par
+\tab -Values range from (0-invisible, 1-visible), Time (last Value) is in milliseconds\par
+\i\f0\fs28 Update:\par
+\ul\b\f2\fs18 Definition \ulnone\b0\i0 = Values that effect attributes about the particle, happens every frame and continues along its life\i\f0\fs28\par
+\b\f2\fs18 SizeRate \b0\i0 = (Value Value)\par
+\tab -This is how the size progress in life, if negative the particle will shrink, if positive it will grow.\par
+\b\i SizeRateDamping \b0\i0 = (Value Value)\par
+\tab -This is the damping, (acceleration) in which the sizerate increases. If 1, it will maintain a normal rate, If 1.01 or higher it will \par
+\tab   increase acceleration rate, if .99 or lower it will decrease acceleration rate.\par
+\b\i AngleZ \b0\i0 = (Value Value)\par
+\tab -This is the Initial angle of the Particle (0-360), \f1 , random between both values\f2\par
+\b\i AngularRateZ \b0\i0 = (Value Value)\par
+\tab -This is the rate at which the angle of the particle changes, if negative it will move right, if positive it will move left, \par
+\tab   random between both values\par
+\b\i AngularDamping \b0\i0 = (Value Value)\par
+\tab -This is the damping, (acceleration) in which the angularratez  increases. If 1, it will maintain a normal rate, If 1.01 or higher it will \par
+\tab   increase acceleration rate, if .99 or lower it will decrease acceleration rate.\par
+\i\f0\fs28 Physics:\par
+\ul\b\f2\fs18 Definition \ulnone\b0\i0 = Values that effect the speed and direction of the particle along its life\i\f0\fs28\par
+\b\f2\fs18 VelocityDamping \b0\i0 = (Value Value)\par
+\tab -This is the damping, (acceleration) in which the velocity (speed) of a particle  increases. If 1, it will maintain a normal rate, If 1.01 or higher it will \par
+\tab   increase acceleration rate, if .99 or lower it will decrease acceleration rate.\par
+\b\i Gravity \b0\i0 = (Value Value)\par
+\tab -This is the gravity of the particle, if positive the particle will rise, if negative it will fall, random between both values\par
+\b\i DriftVelocity \b0\i0 = (X:Value Y:Value Z:Value)\par
+\tab -This is the 'Drift' of each particle, it will increment direction by these values.\par
+\i\f0\fs28 EmissionVelocity:\par
+\ul\b\f2\fs18 Definition \ulnone\b0\i0 = speed and direction of the Particle\i\f0\fs28\par
+\b\f2\fs18 OrthoEmissionVelocity \b0\i0 (X, Y, Z)\par
+\tab X = (Value Value)\par
+\tab\tab -XVelocity random between both values\par
+\tab Y = (Value Value)\par
+\tab\tab -YVelocity random between both values\par
+\tab Z = (Value Value)\par
+\tab\tab -ZVelocity random between both values\par
+\b\i OutwardEmissionVelocity \b0\i0 (Speed, OtherSpeed)\par
+\tab -Speed = (Value Value)\par
+\tab\tab -Shoots Particles away from Initial location at a value random from both values\par
+\tab -OtherSpeed = (Value Value)\par
+\tab\tab -\ul Not supported in this version\ulnone , function Unknown\par
+\b\i CylindricalEmissionVelocity \b0\i0 (Radial, Normal)\par
+\tab -Radial = (Value Value)\par
+\tab -Norma = (Value Value)\par
+\i\f0\fs28 EmissionVolume:\par
+\ul\b\f2\fs18 Definition \ulnone\b0\i0 = Initial Position of a particle\par
+\b\i PointEmissionVolume \b0\i0 (IsHollow)\par
+\tab -IsHollow = (Yes or No)\par
+\tab\tab -\ul Not supported in this version\ulnone , function Unknown\par
+\b\i SphereEmissionVolume \b0\i0 (IsHollow, Radius)\par
+\tab -IsHollow = (Yes or No)\par
+\tab\tab -If Yes, Particles will be designated on the shell of the sphere, if No, dont bother puting \par
+\tab\tab   it the system, by default it makes them appear anywhere in the sphere\par
+\tab -Radius = (Value)\par
+\tab\tab -Sets the radius of the sphere, which is half the spheres width (diameter)\par
+\b\i CylinderEmissionVolume \b0\i0 (IsHollow, Length, Radius, RadiusRate, Offset)\par
+\tab -IsHollow = (Yes or No)\par
+\tab\tab -If Yes, Particles will be designated on the shell of the cylinder, if No, dont bother puting \par
+\tab\tab   it the system, by default it makes them appear anywhere in the cylinder\par
+\tab -Length = (Value)\par
+\tab\tab -Sets the height of the Cylinder\par
+\tab -Radius = (Value)\par
+\tab\tab -Sets the radius of the cylinder, which is half the cylinders width (diameter)\par
+\tab -RadiusRate = (Value Value)\par
+\tab\tab -\ul Not supported in this version\ulnone , function Unknown\par
+\tab -Offset = (X:Value Y:Value Z:Value)\par
+\tab\tab -Sets the offset of the Cylinder relative to its actual location\par
+\b\i LineEmissionVolume \b0\i0 (IsHollow, StartPoint, EndPoint)\par
+\tab -IsHollow = (Yes or No)\par
+\tab\tab -\ul Not supported in this version\ulnone , function Unknown\par
+\tab -StartPoint = (X:Value Y:Value Z:Value)\par
+\tab -EndPoint = (X:Value Y:Value Z:Value)\par
+\tab\tab -Particles location is set between these to points, to make a "Line"\tab\par
+ \b\i BoxEmissonVolume \b0\i0 (IsHollow, Halfsize)\par
+\tab -IsHollow = (Yes or No)\par
+\tab\tab -Yes then Particles are on the outside of a box, If No dont bother including it, by default it will make it in the box anywhere\par
+\tab -Halfsize = (X:Value Y:Value Z:Value)\par
+\tab\tab -X is the half the box Width, Y is half the box Depth, Z is half the box Height\tab\par
+\par
+\i\f0\fs28\par
+Wind:\par
+\ul\b\f2\fs18 Definition \ulnone\b0\i0 = Random values that effect the particles and emulates an actual environment\par
+\ul Not supported in this version\ulnone , function not evaluated\i\f0\fs28\par
+Draw:\par
+\ul\b\f2\fs18 Definition \ulnone\b0\i0 =how to render the particle in the system\par
+\ul Not supported in this version\ulnone , Only Default Draw is available\i\f0\fs28\par
+\par
+FXParticleSystem in a Nutshell\par
+\i0\f2\fs18 The Particle System is triggered...\par
+It waits 'InitialDelay' amount of seconds...\par
+'BurstCount' amount of particles are released every 'BurstDelay' amount of time...\par
+particles are set to 'Size' and size increases 'SizeRate', 'SizeRate is multiplied by 'SizeDamping'.....\par
+particle rotation is set to 'AngleZ' and it increases 'AngularRateZ', 'AngularRateZ' is multiplied by 'AngularDamping'....\par
+particles position is determined by 'EmissionVolume'....\par
+particles velocity is determined by 'EmissionVelocity', that is multiplied by 'VelocityDamping'...\par
+particles positon adds 'DriftVelocity' to its position, and Adds 'Gravity' to its ZLocation\par
+If 'IsOneShot' and 'SystemLifetime' is up then System Dies, particles stop being produced and existing die.\i\f0\fs28\par
+\par
+\f1\fs20\par
+}
+ 

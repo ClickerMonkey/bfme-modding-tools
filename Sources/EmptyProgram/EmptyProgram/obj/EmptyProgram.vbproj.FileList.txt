@@ -1,0 +1,3 @@
+obj\Debug\EmptyProgram.exe
+obj\Debug\EmptyProgram.xml
+obj\Debug\EmptyProgram.pdb

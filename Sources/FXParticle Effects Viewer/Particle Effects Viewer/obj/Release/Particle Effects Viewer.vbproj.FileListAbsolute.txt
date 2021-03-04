@@ -1,0 +1,23 @@
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\bin\Release\FXParticleSystem Editor.exe
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\bin\Release\FXParticleSystem Editor.pdb
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\bin\Release\FXParticleSystem Editor.xml
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\bin\Release\Microsoft.DirectX.Direct3D.dll
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\bin\Release\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\bin\Release\Microsoft.DirectX.dll
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\bin\Release\Microsoft.DirectX.xml
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\bin\Release\Microsoft.DirectX.Direct3D.xml
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\bin\Release\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\Particle Effects Viewer.vbprojAssemblyReference.cache
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\Particle_Effects_Viewer.AlphaDialog.resources
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\Particle_Effects_Viewer.AlphaHolder.resources
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\Particle_Effects_Viewer.ColorHolder.resources
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\Particle_Effects_Viewer.MainForm.resources
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\Particle_Effects_Viewer.Resources.resources
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\Particle_Effects_Viewer.ValueHolder.resources
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\Particle_Effects_Viewer.VectorHolder.resources
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\Particle Effects Viewer.vbproj.GenerateResource.cache
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\Particle Effects Viewer.vbproj.CoreCompileInputs.cache
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\Particle Effects Viewer.vbproj.CopyComplete
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\FXParticleSystem Editor.exe
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\FXParticleSystem Editor.xml
+C:\Users\Daddy\Documents\GitHub\bfme-modding-tools\Sources\FXParticle Effects Viewer\Particle Effects Viewer\obj\Release\FXParticleSystem Editor.pdb
